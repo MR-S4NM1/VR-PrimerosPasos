@@ -2317,6 +2317,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Weapon_Mace1 v2
       objectReference: {fileID: 0}
+    - target: {fileID: 1879966026523960, guid: a302d049a58c2034e868f5d179efd57d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4169863051672106, guid: a302d049a58c2034e868f5d179efd57d, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -3504,6 +3508,10 @@ PrefabInstance:
     - target: {fileID: 5636007606043308990, guid: 421ea12c64fd0af47a4a20ad532c8856, type: 3}
       propertyPath: m_Name
       value: Sword Two-Hander Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 5636007606043308990, guid: 421ea12c64fd0af47a4a20ad532c8856, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 421ea12c64fd0af47a4a20ad532c8856, type: 3}
