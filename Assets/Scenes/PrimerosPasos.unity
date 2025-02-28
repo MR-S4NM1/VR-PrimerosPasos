@@ -147,7 +147,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 11373165}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7834,7 +7834,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2089351863}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -1.3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8375,7 +8375,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919132149461554919}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.55298257, y: -1.4699998, z: -3.4424307}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9988,13 +9988,13 @@ MonoBehaviour:
   _leftHand:
     vRTarget: {fileID: 72487469}
     iKTarget: {fileID: 523478179}
-    positionOffset: {x: -0.06, y: -0.03, z: -0.12}
-    rotationOffset: {x: 180.2, y: 77.84, z: -94.6}
+    positionOffset: {x: -0.1, y: -24, z: 9}
+    rotationOffset: {x: 180, y: -80, z: -85}
   _rightHand:
     vRTarget: {fileID: 784673953}
     iKTarget: {fileID: 805866284}
-    positionOffset: {x: 0.06, y: -0.03, z: -0.12}
-    rotationOffset: {x: 180.2, y: 77.84, z: 94.6}
+    positionOffset: {x: 0.1, y: -24, z: 9}
+    rotationOffset: {x: 180, y: 80, z: 85}
   _headPositionOffset: {x: 0, y: -0.54, z: 0}
   _bodyOffset: 0
 --- !u!4 &5901452235568144094
